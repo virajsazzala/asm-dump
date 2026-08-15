@@ -1,0 +1,4 @@
+asm-dump
+========
+
+I've been writing some code in x86_64 assembly. During which I make tiny programs to learn specific concepts. This repository has some of those programs.
